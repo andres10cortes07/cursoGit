@@ -1,1 +1,1 @@
-print ("Cambio en el fichero")
+print ("Cambio en el fichero NUEVO CON DIFF")
